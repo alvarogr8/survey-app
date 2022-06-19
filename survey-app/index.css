@@ -1,8 +1,0 @@
-@import "./constants.css";
-@import "./buttons.css";
-@import "./inputs.css";
-@import "./links.css";
-
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
